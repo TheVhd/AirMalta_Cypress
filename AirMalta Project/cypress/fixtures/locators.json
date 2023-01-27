@@ -1,0 +1,21 @@
+{
+  "url":"https://airmalta.com",
+  "Departure": "Vienna",
+  "Arrival": "Malta", 
+  "cookie":"div.col-lg-2.offset-lg-1 > button",
+  "Dep_City":".form-control > .ellipsis",
+  "Input_Dep":".airport-search-input",
+  "Airport_Name":"div.airport-name.ellipsis",
+  "Arr_City":".route-selection-destination > div",
+  "Input_Arr":".airport-search-input",
+  "AirPort_Name":".airport-name.ellipsis",
+  "Dep_date":".startDate > .form-control",
+  "Date_Picker":".DayPicker-Day.DayPicker-Day--today",
+  "Arr_Date":"[aria-label='Wed Feb 15 2023']",
+  "arr_Date":"(//div[@class='DayPicker-Day'])[2]",
+  "search_flight":".buttons > .d-none",
+  "flex_date":".LinkUI__Link-beRZqo",
+  "av_flight":"sc-kksqOZ dpJGGt",
+  "price":"(//div[@class='sc-euMpXR dEdBnT'])[1]",
+  "Price":"(//button[@class='sc-dkaWxM bZQAjI'])[1]"
+}
